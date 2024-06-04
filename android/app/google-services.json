@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886134421814",
+    "project_id": "parkmate-79d80",
+    "storage_bucket": "parkmate-79d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886134421814:android:c89d7c5fb01f8c85819b97",
+        "android_client_info": {
+          "package_name": "com.example.parkmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo9JtdDvjTIVFiuITxyDHI4KFmDqNYsPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
